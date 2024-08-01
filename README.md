@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Full Stack Web Developer**
 
-- 👨‍💻 All of my projects are available at [none](none)
+- 👨‍💻 All of my projects are available at [My Website](https://vishesh-dhiman.blogspot.com/)
 
-- 📝 I regularly write articles on [none](none)
+- 📝 I regularly write articles on [My Blogspot Site](https://vishesh-dhiman.blogspot.com/)
 
 - 💬 Ask me about **None**
 
