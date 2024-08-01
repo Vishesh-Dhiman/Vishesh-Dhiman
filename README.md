@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Vishesh Dhiman! 👋
 
-<!--
-**Vishesh-Dhiman/Vishesh-Dhiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Aspiring Web Developer | 🛡️ Cybersecurity Enthusiast | 🎨 Coding & Shayari Lover
 
-Here are some ideas to get you started:
+### 📚 Currently studying for a UP Polytechnic diploma in Internet and Web Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Passionate about:
+- Ethical Hacking
+- Cybersecurity
+- Information Security
+- Coding
+
+### 💻 Building my portfolio site with a unique color palette:
+- #071952
+- #088395
+- #37B7C3
+- #EBF4F6
+
+### 📢 Sharing knowledge and tips on:
+- Instagram: [@HackinGyan](https://instagram.com/HackinGyan)
+- Telegram: [@CyberHackerZone](https://t.me/CyberHackerZone)
+
+### 🎤 Hindi Voice-over Artist:
+- Bringing stories and concepts to life with a touch of artistry.
+
+### 🧑‍🎓 Always learning and growing:
+- Keen interest in the latest tech trends and developments.
+
+## 🔗 Connect with me:
+- [Instagram](https://instagram.com/HackinGyan)
+- [Telegram](https://t.me/CyberHackerZone)
+- [GitHub](https://github.com/your-github-username)
+
+## 📈 GitHub Stats:
+![Vishesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+## 🔥 Top Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
