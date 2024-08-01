@@ -1,39 +1,32 @@
-# Hi there, I'm Vishesh Dhiman! 👋
+<h1 align="center">Hi 👋, I'm Vishesh Dhiman</h1>
+<h3 align="center">🌐 Aspiring Full Stack Web Developer | 🛡️ Cybersecurity Enthusiast | 🎨 Coding Lover</h3>
 
-## 🌐 Aspiring Web Developer | 🛡️ Cybersecurity Enthusiast | 🎨 Coding & Shayari Lover
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishesh-dhiman&label=Profile%20views&color=0e75b6&style=flat" alt="vishesh-dhiman" /> </p>
 
-### 📚 Currently studying for a UP Polytechnic diploma in Internet and Web Technology.
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-### 🔍 Passionate about:
-- Ethical Hacking
-- Cybersecurity
-- Information Security
-- Coding
+- 🌱 I’m currently learning **Full Stack Web Developer**
 
-### 💻 Building my portfolio site with a unique color palette:
-- #071952
-- #088395
-- #37B7C3
-- #EBF4F6
+- 👨‍💻 All of my projects are available at [none](none)
 
-### 📢 Sharing knowledge and tips on:
-- Instagram: [@HackinGyan](https://instagram.com/HackinGyan)
-- Telegram: [@CyberHackerZone](https://t.me/CyberHackerZone)
+- 📝 I regularly write articles on [none](none)
 
-### 🎤 Hindi Voice-over Artist:
-- Bringing stories and concepts to life with a touch of artistry.
+- 💬 Ask me about **None**
 
-### 🧑‍🎓 Always learning and growing:
-- Keen interest in the latest tech trends and developments.
+- 📫 How to reach me **mrvisheshdhiman@outlook.com**
 
-## 🔗 Connect with me:
-- [Instagram](https://instagram.com/HackinGyan)
-- [Telegram](https://t.me/CyberHackerZone)
-- [GitHub](https://github.com/your-github-username)
+- 📄 Know about my experiences [none](none)
 
-## 📈 GitHub Stats:
-![Vishesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/the.chotudhiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.chotudhiman" height="30" width="40" /></a>
+</p>
 
-## 🔥 Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishesh-dhiman&show_icons=true&locale=en&layout=compact" alt="vishesh-dhiman" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishesh-dhiman&show_icons=true&locale=en" alt="vishesh-dhiman" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishesh-dhiman&" alt="vishesh-dhiman" /></p>
